@@ -40,7 +40,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AleksaMilosevic07&theme=react-dark" alt="Aleksa's GitHub Activity Graph" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleksamilosevic07&theme=dark" alt="Aleksa's Streak Stats" />
 </p>
