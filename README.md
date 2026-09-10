@@ -1,16 +1,6 @@
 <h1 align="center">Hi there! I am Aleksa 👋</h1>
 <h3 align="center">Software Engineering Student from Serbia</h3>
 
-<p align="center">
-  🎓 CS50 Certified | 🔭 Working on <a href="https://github.com/AleksaMilosevic07/TriggerBlock">TriggerBlock</a>
-</p>
-
----
-
-### 📜 Certification & Contact
-- 🏆 **CS50 Certificate:** [View Certificate](https://certificates.cs50.io/822d1ee8-4f6e-4064-beef-567b5eecdb30.pdf?size=letter)
-- 📬 **Email:** [007milosevicaleksa@gmail.com](mailto:007milosevicaleksa@gmail.com)
-
 ---
 
 ### 🛠️ Languages and Tools
@@ -40,6 +30,13 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+### 📌 About & Projects
+- 🔭 **Current Project:** Working on [TriggerBlock](https://github.com/AleksaMilosevic07/TriggerBlock)
+- 📜 **Coursework:** Completed [CS50x](https://certificates.cs50.io/822d1ee8-4f6e-4064-beef-567b5eecdb30.pdf?size=letter)
+- 📬 **Contact:** [007milosevicaleksa@gmail.com](mailto:007milosevicaleksa@gmail.com)
 
 ---
 
