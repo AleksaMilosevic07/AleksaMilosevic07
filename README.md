@@ -26,9 +26,8 @@
 
 ### 📈 Contribution Activity
 <p align="center">
-  <img src="./dist/activity-graph.svg?v=2" alt="Aleksa's Activity Graph" />
+  <img src="./dist/activity-graph.svg?v=1" alt="Aleksa's Activity Graph" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleksamilosevic07&theme=dark" alt="Aleksa's Streak Stats" />
 </p>
