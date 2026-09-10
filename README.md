@@ -42,7 +42,7 @@
 
 ### 📈 Contribution Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AleksaMilosevic07/AleksaMilosevic07/main/dist/activity-graph.svg" alt="Aleksa's Activity Graph" />
+  <img src="https://raw.githubusercontent.com/AleksaMilosevic07/AleksaMilosevic07/master/dist/activity-graph.svg" alt="Aleksa's Activity Graph" />
 </p>
 
 <p align="center">
