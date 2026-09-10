@@ -15,9 +15,14 @@ jobs:
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          username: AleksaMilosevic07
-          theme: github-dark
-          output_path: dist/activity-graph.svg
+            username: AleksaMilosevic07
+            theme: github-dark
+            bg_color: "0d1117"
+            title_color: "58a6ff"
+            color: "c9d1d9"
+            line: "58a6ff"
+            point: "1f6feb"
+            output_path: dist/activity-graph.svg
       - name: Commit & Push SVG
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
