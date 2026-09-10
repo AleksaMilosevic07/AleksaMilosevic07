@@ -42,7 +42,7 @@
 
 ### 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleksaMilosevic07&show_icons=true&theme=dark" alt="Aleksa's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/AleksaMilosevic07/AleksaMilosevic07/master/dist/activity-graph.svg" alt="Aleksa's Activity Graph" />
 </p>
 
 <p align="center">
